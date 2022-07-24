@@ -2,25 +2,25 @@
 layout: home
 permalink: index.html
 
-# Please update this with your repository name and title
-repository-name: eYY-4yp-project-template
-title:
+
+repository-name: e16-4yp-Identification-of-Weeds-in-broadcasted-Paddy-fields-using-multispectral-UAV-images
+title: Identification of Weeds in broadcasted Paddy fields using multispectral UAV images
 ---
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
-# Project Title
+# Identification of Weeds in broadcasted Paddy fields using multispectral UAV images
 
 #### Team
 
-- eNumber, Name, [email](mailto:name@email.com)
-- eNumber, Name, [email](mailto:name@email.com)
-- eNumber, Name, [email](mailto:name@email.com)
+- E/16/319, Name, [e16319@eng.pdn.ac.lk](mailto:name@email.com)
+- E/16/320, Name, [e16320@eng.pdn.ac.lk](mailto:name@email.com)
+- E/16/370, Name, [e16370@eng.pdn.ac.lk](mailto:name@email.com)
 
 #### Supervisors
 
-- Name, [email](mailto:name@eng.pdn.ac.lk)
-- Name, [email](mailto:name@eng.pdn.ac.lk)
+- Dr. Damayanthi Herath, [damayanthiherath@eng.pdn.ac.lk](mailto:name@eng.pdn.ac.lk)
+- Dr. Sachith Seneviratne, [sachith.seneviratne@unimelb.edu.au](mailto:name@eng.pdn.ac.lk)
 
 #### Table of content
 
