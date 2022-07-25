@@ -9,6 +9,8 @@ title: Identification of Weeds in broadcasted Paddy fields using multispectral U
 
 # Identification of Weeds in broadcasted Paddy fields using multispectral UAV images
 
+Develop a model to Identify paddy crops and weeds by images taken from UAV (unmanned aerial vehicle) and develop a desktop application as user interface.
+
 #### Team
 
 - E/16/319, Name, [e16319@eng.pdn.ac.lk](mailto:name@email.com)
