@@ -13,14 +13,15 @@ Develop a model to Identify paddy crops and weeds by images taken from UAV (unma
 
 #### Team
 
-- E/16/319, Name, [e16319@eng.pdn.ac.lk](mailto:name@email.com)
-- E/16/320, Name, [e16320@eng.pdn.ac.lk](mailto:name@email.com)
-- E/16/377, Name, [e16377@eng.pdn.ac.lk](mailto:name@email.com)
+- E/16/319, Rathnayaka R.P.V.N, [e16319@eng.pdn.ac.lk](mailto:name@email.com)
+- E/16/320, Rathnayake E.W.S.P, [e16320@eng.pdn.ac.lk](mailto:name@email.com)
+- E/16/377, Vindula I.B.S, [e16377@eng.pdn.ac.lk](mailto:name@email.com)
 
 #### Supervisors
 
 - Dr. Damayanthi Herath, [damayanthiherath@eng.pdn.ac.lk](mailto:name@eng.pdn.ac.lk)
 - Dr. Sachith Seneviratne, [sachith.seneviratne@unimelb.edu.au](mailto:name@eng.pdn.ac.lk)
+- Dr. Nuwan De Silva, [sssnuwanp@yahoo.com](mailto:name@eng.pdn.ac.lk)
 
 #### Table of content
 
