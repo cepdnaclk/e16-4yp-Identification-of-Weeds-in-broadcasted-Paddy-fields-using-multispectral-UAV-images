@@ -1,8 +1,6 @@
 ---
 layout: home
 permalink: index.html
-
-
 repository-name: e16-4yp-Identification-of-Weeds-in-broadcasted-Paddy-fields-using-multispectral-UAV-images
 title: Identification of Weeds in broadcasted Paddy fields using multispectral UAV images
 ---
