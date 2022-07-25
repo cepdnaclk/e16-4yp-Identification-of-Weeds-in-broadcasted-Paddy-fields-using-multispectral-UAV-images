@@ -15,7 +15,7 @@ title: Identification of Weeds in broadcasted Paddy fields using multispectral U
 
 - E/16/319, Name, [e16319@eng.pdn.ac.lk](mailto:name@email.com)
 - E/16/320, Name, [e16320@eng.pdn.ac.lk](mailto:name@email.com)
-- E/16/370, Name, [e16370@eng.pdn.ac.lk](mailto:name@email.com)
+- E/16/377, Name, [e16377@eng.pdn.ac.lk](mailto:name@email.com)
 
 #### Supervisors
 
@@ -35,9 +35,7 @@ title: Identification of Weeds in broadcasted Paddy fields using multispectral U
 
 ---
 
-DELETE THIS SAMPLE before publishing to GitHub Pages !!!
-This is a sample image, to show how to add images to your page. To learn more options, please refer [this](https://projects.ce.pdn.ac.lk/docs/faq/how-to-add-an-image/)
-![Sample Image](./images/sample.png)
+
 
 
 ## Abstract
