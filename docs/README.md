@@ -155,10 +155,11 @@ This study presents the first dataset for weed detection, which can serve as a f
 ## Publications
 [//]: # "Note: Uncomment each once you uploaded the files to the repository"
 
-<!-- 1. [Semester 7 report](./) -->
-<!-- 2. [Semester 7 slides](./) -->
-<!-- 3. [Semester 8 report](./) -->
-<!-- 4. [Semester 8 slides](./) -->
+1. [Semester 7 report](https://drive.google.com/file/d/136VxN58l5zG1fnXf2JxkjLX_E4SPOCa9/view?usp=sharing)
+2. [Semester 7 slides](https://drive.google.com/file/d/1Yv6OoBNzWdTs84Z4Brzqs_Y8KT_QfTIf/view?usp=share_link)
+3. [Semester 8 report]() 
+4. [Semester 8 slides](https://drive.google.com/file/d/1gF6H9NeyAwYreAYJ2-C_E3he5cbBYFoa/view?usp=sharing)
+5. [Semester 8 3MT slides](https://drive.google.com/file/d/1oBfSJHU8NOq6QXsGnHQEuE7EAWfRyj0W/view?usp=share_link)
 <!-- 5. Author 1, Author 2 and Author 3 "Research paper title" (2021). [PDF](./). -->
 
 
@@ -166,8 +167,8 @@ This study presents the first dataset for weed detection, which can serve as a f
 
 [//]: # ( NOTE: EDIT THIS LINKS WITH YOUR REPO DETAILS )
 
-- [Project Repository](https://github.com/cepdnaclk/repository-name)
-- [Project Page](https://cepdnaclk.github.io/repository-name)
+- [Project Repository](https://github.com/cepdnaclk/e16-4yp-Identification-of-Weeds-in-broadcasted-Paddy-fields-using-multispectral-UAV-images)
+- [Project Page](https://cepdnaclk.github.io/e16-4yp-Identification-of-Weeds-in-broadcasted-Paddy-fields-using-multispectral-UAV-images/)
 - [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
 - [University of Peradeniya](https://eng.pdn.ac.lk/)
 
